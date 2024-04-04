@@ -1,0 +1,8 @@
+
+#pageBody {
+  transition: background-color 2s ;
+}
+
+#title {
+  transition: color 2s ; 
+}
